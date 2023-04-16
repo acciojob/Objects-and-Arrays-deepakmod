@@ -18,7 +18,6 @@ const cap1={
     ...person
 };
 
-const cap1={};
 window.players = players;
 window.person = person;
 window.team = team;
